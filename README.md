@@ -2,6 +2,8 @@
 
 The MasterTracker is a 1541 drive enhancement that is built into the 1541 disk drive.  It is a semi-distructive installation, as some material from the case (plastic behind the original 1541 badge must be removed).  It is however reversable, as the original badge (if removed nicely) can be placed back on the drive, disguising the removed material if glued back in place.  At it's core, the digital track display is a step counting circuit design, capable of counting whole and half tracks.  Unlike "ram reader" style trackers, the circuit used in the Mastertracker (© WJW 1989) cannot be defeated by any software or acceleration/speeder enhancement applied to the 1541.
 
+![rs640_IMG_2400](https://github.com/COREi64/MasterTracker-1541-Drive-Enhancement/assets/37495485/8c898975-dd9f-4e99-8e9f-433dabef69a9)
+
 The MasterTracker device was a collaboration between three individuals from the Commodore community.
 - Wes256 provided the use of the design schematics for the DTD (digital track display) and the DLD (density level display).
 - As a paid contractor and team collaboration member, DDI provided all the PCB design/layup work as well as providing circuits for the other functional elements contained in the MasterTracker design (outside of the DTD and DLD).  Development/test boards were also layed up by DDI.
