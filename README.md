@@ -25,11 +25,11 @@ The MasterTracker contains the following functional elements in it's design.
 - 1541 Illuminated write protect indicator (DDI)
 - Optional step LED (in place of the stock power LED) (DDI)
 
-This is NOT an open source device.  Gerbers, design files and schematics will not be shared with the community.  The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.  Track Display (DTD) and Density Level Display (DLD) remain under the sole ownership of WJW © 1989.  Although a valued and key contributor to the MasterTracker project, DDI retains no ownership or residuals in this project.
+This is NOT an open source device.  Gerbers, design files and schematics will not be shared with the community.  The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.  Track Display (DTD) and Density Level Display (DLD) remain under the sole ownership of WJW © 1989.  Although a valued and key contributor to the MasterTracker project, DDI retains no ownership or residuals in this project.  DDI's contrubution however was instrumental in the rapid development of the Mastertracker.  His commitment and countless hours he devoted to this project will not be forgotten.
 
-The device itself will be available through https://COREi64.com in TWO versions.
+The device itself will become available through https://COREi64.com in TWO versions, as described in detail below in two options.
 
-1. A very limited number of completed assembled and tested units will be made available.  These will be made available for a limited time.
+1. A limited number of completed assembled and tested units will be made available.  These will be made available for a limited time.
 2. The MasterTracker will be offered as a PCB kit.
 
 MasterTracker Assembled Units.
