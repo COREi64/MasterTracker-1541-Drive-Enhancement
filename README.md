@@ -6,7 +6,7 @@ The MasterTracker is a 1541 drive enhancement that is built into the 1541 disk d
 
 The MasterTracker device was a collaboration between three individuals from the Commodore community.
 - Wes256 provided the use of the design schematics for the DTD (digital track display) and the DLD (density level display).
-- As a paid contractor and team collaboration member, DDI provided all the PCB design/layup work as well as providing circuits for the other functional elements contained in the MasterTracker design (outside of the DTD and DLD).  Development/test boards were also layed up by DDI.
+- As a paid contractor and team collaboration member, DDI provided all the PCB design/layup work as well as providing circuits for the other functional elements contained in the MasterTracker design (outside of the DTD and DLD).  Development and test boards were created in eCAD by DDI.
 - COREi64 100 percent funded, built and tested in collaboration with the other above noted contributors.  Captive pin UC2 tap was designed by COREi64.
 - Creative input is shared between DDI and COREi64 on the MasterTracker project.  Acceptance of the final design was executed by COREi64.
 
