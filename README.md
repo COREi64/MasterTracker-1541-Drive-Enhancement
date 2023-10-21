@@ -25,9 +25,7 @@ The MasterTracker contains the following functional elements in it's design.
 - 1541 Illuminated write protect indicator (DDI)
 - Optional step LED (in place of the stock power LED) (DDI)
 
-These are the functional elements of the device.
-
-This is NOT an open source device.  Gerbers, design files and schematics will not be shared with the community.  The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.
+This is NOT an open source device.  Gerbers, design files and schematics will not be shared with the community.  The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.  Track Display (DTD) and Density Level Display (DLD) remain under the sole ownership of WJW © 1989.  Although a valued and key contributor to the MasterTracker project, DDI retains no ownership or residuals in this project.
 
 The device itself will be available through https://COREi64.com in TWO versions.
 
