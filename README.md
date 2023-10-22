@@ -4,7 +4,7 @@ The MasterTracker is a 1541 drive enhancement that is built into the 1541 disk d
 
 This github exists to provide support documentation to those who choose to build a MasterTracker from a kit-form obtained from COREi64.com, and/or for those users of the Mastertracker they've installed in their 1541 disk drive.
 
-![rs640_IMG_2400](https://github.com/COREi64/MasterTracker-1541-Drive-Enhancement/assets/37495485/8c898975-dd9f-4e99-8e9f-433dabef69a9)
+![IMG_2400](https://github.com/COREi64/MasterTracker-1541-Drive-Enhancement/assets/37495485/f1bec15d-2ff6-4713-a599-a5400386d66e)
 
 The MasterTracker device was a collaboration between three individuals from the Commodore community.
 - Wes256 provided the use of the design schematics for the DTD (digital track display) and the DLD (density level display).
