@@ -2,6 +2,8 @@
 
 The MasterTracker is a 1541 drive enhancement that is built into the 1541 disk drive.  It is a semi-distructive installation, as some material from the case (plastic behind the original 1541 badge must be removed).  It is however reversable, as the original badge (if removed nicely) can be placed back on the drive, disguising the removed material if glued back in place.  At it's core, the digital track display is a step counting circuit design, capable of counting whole and half tracks.  Unlike "ram reader" style trackers, the circuit used in the Mastertracker (© WJW 1989) cannot be defeated by any software or acceleration/speeder enhancement applied to the 1541.
 
+This github exists to provide support documentation to those who choose to build a MasterTracker from a kit-form obtained from COREi64.com, and/or for those users of the Mastertracker they've installed in their 1541 disk drive.
+
 ![rs640_IMG_2400](https://github.com/COREi64/MasterTracker-1541-Drive-Enhancement/assets/37495485/8c898975-dd9f-4e99-8e9f-433dabef69a9)
 
 The MasterTracker device was a collaboration between three individuals from the Commodore community.
@@ -25,7 +27,7 @@ The MasterTracker contains the following functional elements in it's design.
 - 1541 Illuminated write protect indicator (DDI)
 - Optional step LED (in place of the stock power LED) (DDI)
 
-This is NOT an open source device.  Gerbers, design files and schematics will not be shared with the community.  The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.  Track Display (DTD) and Density Level Display (DLD) remain under the sole ownership of WJW © 1989.  Although a valued and key contributor to the MasterTracker project, DDI retains no ownership or residuals in this project.  DDI's contrubution however was instrumental in the rapid development of the Mastertracker.  His commitment and countless hours he devoted to this project will not be forgotten.
+This is NOT an open source device.  Gerbers, design files and schematics will not be shared with the community.  The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.  Track Display (DTD) and Density Level Display (DLD) remain under the sole ownership of WJW © 1989.  Although a valued and key contributor to the MasterTracker project, DDI retains no ownership or residuals in this project.  DDI's contrubution however was instrumental in the development of the Mastertracker.  His commitment and countless hours he freely contributed to this project will not be forgotten.
 
 The device itself will become available through https://COREi64.com in TWO versions, as described in detail below in two options.
 
@@ -33,7 +35,7 @@ The device itself will become available through https://COREi64.com in TWO versi
 2. The MasterTracker will be offered as a PCB kit.
 
 MasterTracker Assembled Units.
-Initially, there will be a number of assembled units available through COREi64.  This will only be for a limited time, as they are quite time consuming to build, and are not cost effective for me to build.
+Initially, there will be an undetermined number of assembled units available through COREi64.  This will only be for a limited time, as they are quite time consuming to build, and are not cost effective for me to build in complete form in the long term.
 
 MasterTracker PCB kits.
 This is the reason you're seeing this Github.  A PCBkit for the MasterTracker will be made available, which is THE MOST COST EFFECTIVE way you can get a MasterTracker for your drive.  It will contain the following items.
