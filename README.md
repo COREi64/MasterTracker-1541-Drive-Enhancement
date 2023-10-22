@@ -46,6 +46,6 @@ This is the reason you're seeing this Github.  A PCBkit for the MasterTracker wi
 - 1 PCB UC2 tap board
 - 1 PCB ROM switcher board with all SMD parts included and pre-soldered on the board
 
-No additional components will be provided in the PCB kit.  This is, save for the SMD work that is pre-done for you, and entirely "thru-hole" soldering project.  It is easily completed by most Commodore enthusiasts that are handy with a soldering iron.  The purchase of parts are the responsibility of the kit builder.  Mouser part number, and part descriptions will be provided in the various BOM lists.  BOM lists will be found on this github pertaining to each circuit board.
+No additional components will be provided in the PCB kit.  This is, save for the SMD work that is pre-done for you, an entirely "thru-hole" soldering project.  It is easily completed by most Commodore enthusiasts that are handy with a soldering iron.  The purchase of parts are the responsibility of the kit builder.  Mouser part number, and part descriptions will be provided in the various BOM lists.  BOM lists will be found on this github pertaining to each circuit board.
 
-An announcement will be made on social media when this kit becomes available, and this Github will be updated accordingly.
+An announcement will be made on social media when this kit (and assembled units) become available, and this Github will be updated accordingly.
