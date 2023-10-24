@@ -46,8 +46,8 @@ NOTE: eprom will be programmed with four copies of the original 1541 drive rom. 
   
 What is NOT supplied:
 
-Tools (drill, drill bits, screwdrivers)
-Courage to cut through the face of your drive
+- Tools (drill, drill bits, screwdrivers)
+- Courage to cut through the face of your drive
 
 In order to utilize the drive device change feature, you will need to cut two points on the 1541 drive board, and solder on two wires so you'll have to warm up your iron for that.
 
