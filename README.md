@@ -36,11 +36,11 @@ The mastertracker will be sold as a complete unit only.  The main MasterTracker 
 
 The package will include the following:
 
-1 x MasterTracker Display Board and Bezel, with link cables
-1 x MasterTracker Main PCB, with link cables
-1 x UC2 Tap Board
-1 x Drive ROM Adapter Board
-1 x Cut Stencil (used to cut the opening in the face of the drive)
+- 1 x MasterTracker Display Board and Bezel, with link cables
+- 1 x MasterTracker Main PCB, with link cables
+- 1 x UC2 Tap Board
+- 1 x Drive ROM Adapter Board
+- 1 x Cut Stencil (used to cut the opening in the face of the drive)
 
 What is NOT supplied:
 
