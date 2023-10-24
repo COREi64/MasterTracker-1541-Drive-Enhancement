@@ -15,7 +15,7 @@ The MasterTracker device was a collaboration between three individuals from the 
 
 The MasterTracker contains the following functional elements in it's design, element author noted in brackets.
 - Illuminated left-side logo (DDI)
-- Rolling light bars on write signal (DDI)
+- Rolling light bars on write signal (Designed by DDI, functionally revised by Wes256)
 - Drive reset button (DDI)
 - Digital Track Display (Wes256)
 - Density Level Display (Wes256)
