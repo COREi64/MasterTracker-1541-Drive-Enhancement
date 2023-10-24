@@ -15,7 +15,7 @@ The MasterTracker device was a collaboration between three individuals from the 
 
 COREi64 is the project owner and retains the sole rights of distribution with respect to the completed Mastertracker device.
 
-The MasterTracker contains the following functional elements in it's design.
+The MasterTracker contains the following functional elements in it's design, author noted in brackets.
 - Illuminated left-side logo (DDI)
 - Rolling light bars on write signal (DDI)
 - Drive reset button (DDI)
