@@ -42,6 +42,8 @@ The package will include the following:
 - 1 x Drive ROM Adapter Board (with programmed eprom)
 - 1 x Cut Stencil (used to cut the opening in the face of the drive)
 
+Options will be available to customize your MasterTracker to suit your personal tastes.
+
 NOTE: eprom will be programmed with four copies of the original 1541 drive rom.  IF you own a copy of JiffyDOS for the 1541, you may opt certify this prior to purchasing, and have the JiffyDOS code programmed into 1 of the four positions of the rom.
   
 What is NOT supplied:
