@@ -53,4 +53,4 @@ What is NOT supplied:
 
 In order to utilize the drive device change feature, you will need to cut two points on the 1541 drive board, and solder on two wires so you'll have to warm up your iron for that.
 
-An announcement will be made on social media and on COREi64.com when the MasterTracker becomes available for purchase. This Github will be updated accordingly.
+The MasterTracker is now available through the COREi64 shop: https://corei64.com/shop/index.php?route=product/product&product_id=445
