@@ -1,6 +1,6 @@
 # MasterTracker-1541-Drive-Enhancement
 
-The MasterTracker is a 1541 drive enhancement that is built into the 1541 disk drive.  It is a semi-destructive installation, as some material from the case (plastic behind the original 1541 badge must be removed).  It is however reversable, as the original badge (if removed nicely) can be placed back on the drive, disguising the removed material if glued back in place.  At it's core, the digital track display is a step counting circuit design, capable of counting whole and half tracks.  Unlike "ram reader" style trackers, the circuit used in the Mastertracker cannot be defeated by any software or acceleration/speeder enhancement applied to the 1541.  It will accurately display head movement and positional information as fast as the drive head can move, with no delay or lag.
+The MasterTracker is a 1541 visual drive enhancement that is built into the 1541 disk drive.  It is a semi-destructive installation, as some material from the case (plastic behind the original 1541 badge must be removed).  It is however reversable, as the original badge (if removed nicely) can be placed back on the drive, disguising the removed material if glued back in place.  At it's core, the digital track display is a step counting circuit design, capable of counting whole and half tracks.  Unlike "ram reader" style trackers, the circuit used in the Mastertracker cannot be defeated by any software or acceleration/speeder enhancement applied to the 1541.  It will accurately display head movement and positional information as fast as the drive head can move, with no delay or lag.
 
 This github exists to provide support documentation those equipping their 1541 with a MasterTracker.
 
@@ -53,4 +53,4 @@ What is NOT supplied:
 
 In order to utilize the drive device change feature, you will need to cut two points on the 1541 drive board, and solder on two wires so you'll have to warm up your iron for that.
 
-The MasterTracker is now available through the COREi64 shop: https://corei64.com/shop/index.php?route=product/product&product_id=445
+The MasterTracker is now available through the COREi64 shop as a pre-order: https://corei64.com/shop/index.php?route=product/product&product_id=445  If you're interested, read through the item description for complete ordering information.
