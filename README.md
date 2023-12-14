@@ -2,7 +2,7 @@
 
 The MasterTracker is a 1541 visual drive enhancement that is built into the 1541 disk drive.  It is a semi-destructive installation, as some material from the case (plastic behind the original 1541 badge must be removed).  It is however reversable, as the original badge (if removed nicely) can be placed back on the drive, disguising the removed material if glued back in place.  At it's core, the digital track display is a step counting circuit design, capable of counting whole and half tracks.  Unlike "ram reader" style trackers, the circuit used in the Mastertracker cannot be defeated by any software or acceleration/speeder enhancement applied to the 1541.  It will accurately display head movement and positional information as fast as the drive head can move, with no delay or lag.
 
-This github exists to provide support documentation those equipping their 1541 with a MasterTracker.
+This github exists to provide support documentation those who decide to build a MasterTracker for their 1541.
 
 ![IMG_2400](https://github.com/COREi64/MasterTracker-1541-Drive-Enhancement/assets/37495485/f1bec15d-2ff6-4713-a599-a5400386d66e)
 
@@ -13,7 +13,7 @@ The MasterTracker device was a collaboration between three individuals from the 
 - Creative input was shared between DDI and COREi64 on the MasterTracker project until October 2023.
 - The photo provided is of the first functional prototype.  The look and function will continue to evolve until the project is announced complete.  DDI's creative input, and complete involvement in this project as well as any spin-off projects ceased in October 2023, however development has not yet been completed.  All of the boards, appearance and function are subject to change without notice.  These changes will move forward and align with the creative vision of Wes256 and COREi64. 
 
-The MasterTracker contains the following functional elements in it's design, element author noted in brackets.
+The MasterTracker, when completed, contains the following functional elements in it's design, element author noted in brackets.
 - Illuminated left-side logo (DDI)
 - Rolling light bars on write signal (Designed by DDI, functionally revised by Wes256)
 - Drive reset button (DDI)
@@ -26,31 +26,16 @@ The MasterTracker contains the following functional elements in it's design, ele
 - 1541 Illuminated write protect indicator (DDI)
 - Optional step LED (in place of the stock power LED) (DDI)
 
-* These functions, circuits and design concepts may also be altered or changed from those shown in the prototype.
+This is NOT an open source device.  **It is however a "Build it Yourself" project, where you purchase the board set from COREi64.com.**  You may then order the parts based on the BOM lists found on this github.
 
-This is NOT an open source device.  Gerbers, design files and schematics will not be shared with the community.  The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.  Track Display (DTD) and Density Level Display (DLD) remain under the sole ownership of Wes256.  Although a valued and key contributor to the MasterTracker project, DDI has withdrawn from this project.  His contributions to this project will not be forgotten.
+The track display and density display circuits are © WJW 1989 and protected by US Copyright law.  The MasterTracker device and project is owned by COREi64, and was designed in collaboration with Wes256 (WJW), and DDI.  Track Display (DTD) and Density Level Display (DLD) remain under the sole ownership of Wes256.  Although a valued and key contributor to the MasterTracker project, DDI has withdrawn from this project.  His contributions to this project will not be forgotten.
 
-The device itself will become available through https://COREi64.com in the following configuration.
+The only difficult to source component is the 7496 5-bit Shift Register IC.  This is the only electronics component that you may optionally purchase along with the PCB set from the COREi64.com site.
 
-The mastertracker will be sold as a complete unit only.  The main MasterTracker driver board is, save for the 7496 5-bit Shift Register IC, an entirely surface mounted board.  The display board primarily utilizes surface mounted components.  As such, this project is not suitable to be offered in "kit form".  The units will be supplied fully tested and ready for the user to install.  Directions on how to do so will be found on this Github site.
+The PCB package will include the following:
 
-The package will include the following:
-
-- 1 x MasterTracker Display Board and Bezel, with link cables
-- 1 x MasterTracker Main PCB, with link cables
+- 1 x MasterTracker Display Board and Bezel
+- 1 x MasterTracker Main PCB (your choice of SMD main board or through hole main board)
 - 1 x UC2 Tap Board
-- 1 x Drive ROM Adapter Board (with programmed eprom)
+- 1 x Drive ROM Adapter Board
 - 1 x Cut Stencil (used to cut the opening in the face of the drive)
-
-Options will be available to customize your MasterTracker to suit your personal tastes.
-
-NOTE: eprom will be programmed with four copies of the original 1541 drive rom.  IF you own a copy of JiffyDOS for the 1541, you may opt certify this prior to purchasing, and have the JiffyDOS code programmed into 1 of the four positions of the rom.
-  
-What is NOT supplied:
-
-- Tools (drill, drill bits, screwdrivers)
-- Courage to cut through the face of your drive
-
-In order to utilize the drive device change feature, you will need to cut two points on the 1541 drive board, and solder on two wires so you'll have to warm up your iron for that.
-
-The MasterTracker is now available through the COREi64 shop as a pre-order: https://corei64.com/shop/index.php?route=product/product&product_id=445  If you're interested, read through the item description for complete ordering information.
